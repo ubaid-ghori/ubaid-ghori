@@ -1,7 +1,7 @@
-![logo](https://github.com/ubaid-ghori/ubaid-ghori/blob/main/Purple%20Gradient%20Modern%20Gaming%20Channel%20Youtube%20Banner.png)
+![logo](https://github.com/ubaid-ghori/ubaid-ghori/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
   <h1 align="center">Hi 👋, I'm ubaid</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
-<img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47wkt3b5jk3mpb8fg9ern1xejg7s37jnt2muzqhwd6&ep=v1_gifs_search&rid=200.webp&ct=g" alt="" width="400px" align="center">
+<img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47wkt3b5jk3mpb8fg9ern1xejg7s37jnt2muzqhwd6&ep=v1_gifs_search&rid=200.webp&ct=g" alt="" width="400px" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid-ghori" /> </p>
 
