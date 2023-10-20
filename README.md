@@ -8,9 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ubaid-ghori](https://github.com/ubaid-ghori)
 
 - 📫 How to reach me **ubaid.razaghori@gmail.com**
-
-- 📄 Know about my work [file:///C:/Users/texon/Downloads/ubaid%20raza.pdf](file:///C:/Users/texon/Downloads/ubaid%20raza.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ubaid-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubaid-raza" height="30" width="40" /></a>
