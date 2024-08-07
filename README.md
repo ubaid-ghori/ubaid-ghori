@@ -24,4 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaid-ghori&show_icons=true&locale=en&layout=compact" alt="ubaid-ghori" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaid-ghori&show_icons=true&locale=en" alt="ubaid-ghori" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid-ghori&" alt="ubaid-ghori" /></p>
